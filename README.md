@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amelye Chatila
 
-I'm a Software Engineer and Application Support professional with experience in banking, digital financial services, and enterprise applications. I enjoy building reliable systems, automating operations, and solving complex integration challenges.
+I'm a Software Engineer and ICT professional with experience in banking, digital financial services, and enterprise applications. I enjoy building reliable systems, automating operations, and solving complex integration challenges.
 
 ## 👨‍💻 Interests
 - Java & Spring Boot
